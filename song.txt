@@ -1,4 +1,4 @@
-You ready?! Let's go!
+﻿You ready?! Let's go!
 Yeah, for those of you that wanna know what we're all about
 It's like this y'all (c'mon)
 This is ten percent luck
@@ -18,3 +18,5 @@ Making a story, making sure his clique stays up
 That means when he puts it down, Tak's pickin' it up      
 Who the hell is he anyway, he never really talks much
 Never concerned…
+
+second commit content...
